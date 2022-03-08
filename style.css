@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: black;
+    color: #ffffff;
+    height: auto;
+    width: 270px;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: auto;
+}
+.btn{
+    height: auto;
+    width: 40px;
+}
+.bg-ground{
+    background-color: brown;
+}
+.heading{
+    color: chocolate;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
